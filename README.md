@@ -27,6 +27,10 @@ Duplicated comments are searched by grouping with Hospital and Comments. The fir
 Google Translate Api has daily limit of characters. Yandex Translate is applied becuase Api token is free.
 The result dataframe is saved in **"candidate_hospitals_translated.csv"**.
 
+### Sample Size
+
+![](/viz/data_size.svg)
+
 ## Sentence Level Polarity
 
 Sentence Intensity Analyzer library is applied.
