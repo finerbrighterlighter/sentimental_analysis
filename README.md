@@ -53,13 +53,13 @@ Multiple Machine Learning models are applied to TF-IDF vectors.
 
 Model | Accuracy
 -|-
-Multimoial Naive Bayes | 0.80
+Multi-layer Perceptron | 0.83
+Stochastic Gradient Descent | 0.83
+K Nearest Neighbour Classifier | 0.82
 Bernoulli Naive Bayes | 0.82
 Logistic Regression | 0.81
-Stochastic Gradient Descent | 0.83
 Support Vector Classifier | 0.81
-K Nearest Neighbour Classifier | 0.82
-Multi-layer Perceptron | 0.83
+Multimoial Naive Bayes | 0.80
 
 All models perform similar but top three performing models, Multi-layer Perceptron, Stochastic Gradient Descent and K Nearest Neighbour Classifier are further tuned.
 
