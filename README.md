@@ -110,7 +110,7 @@ Ramathibodhi Hospital|![](/viz/rama_positive_rd.svg)|![](/viz/rama_negative_rd.s
 Siriraj Hospital|![](/viz/sriraj_positive_rd.svg)|![](/viz/sriraj_negative_rd.svg)
 King Chulalongkorn Memorial Hospital|![](/viz/chula_positive_rd.svg)|![](/viz/chula_negative_rd.svg)
 
-While doctors have both significant positive and negative sentiments in all hospitals, Ramathobodhi Hospital has received more complaints towards nurses than its doctors.
+In contrast to Siriraj Hospital, the remaining two hosiptals have received slightly more negative sentiments towards nurses than the doctors.
 
 <a name="myfootnote1">1</a>: Siriraj Hospital is mispelled as Sriraj Hospital in my variables mostly, because I did not realised there is an extra "i" between "S" and "r".
 Somehow I was confused with the Sanskrit work "Sri".
