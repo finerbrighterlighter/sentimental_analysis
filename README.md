@@ -93,9 +93,24 @@ Coherence score up to 10 topics are calculated for each dataframe.
 
 Hospital | Positive | Negative
 -|-|-
-Rama|![](/viz/rama_pos_wc.svg)|![](/viz/rama_neg_wc.svg)
-Siriraj|![](/viz/sriraj_pos_wc.svg)|![](/viz/sriraj_neg_wc.svg)
-Chula|![](/viz/chula_pos_wc.svg)|![](/viz/chula_neg_wc.svg)
+Ramathibodhi Hospital|![](/viz/rama_pos_wc.svg)|![](/viz/rama_neg_wc.svg)
+Siriraj Hospital|![](/viz/sriraj_pos_wc.svg)|![](/viz/sriraj_neg_wc.svg)
+King Chulalongkorn Memorial Hospital|![](/viz/chula_pos_wc.svg)|![](/viz/chula_neg_wc.svg)
+
+While doctors and nurses are of both positive and negative sentiments, it is noticable that Sriraj Hospital 
+has not received significant negative response towards Nurses.
+
+## Radar Chart
+
+Only top 10 frequent words are visualised in the radar chart.
+
+Hospital | Positive | Negative
+-|-|-
+Ramathibodhi Hospital|![](/viz/rama_positive_rd.svg)|![](/viz/rama_negative_rd.svg)
+Siriraj Hospital|![](/viz/sriraj_positive_rd.svg)|![](/viz/sriraj_negative_rd.svg)
+King Chulalongkorn Memorial Hospital|![](/viz/chula_positive_rd.svg)|![](/viz/chula_negative_rd.svg)
+
+While doctors have both significant positive and negative sentiments in all hospitals, Ramathobodhi Hospital has received more complaints towards nurses than its doctors.
 
 <a name="myfootnote1">1</a>: Siriraj Hospital is mispelled as Sriraj Hospital in my variables mostly, because I did not realised there is an extra "i" between "S" and "r".
 Somehow I was confused with the Sanskrit work "Sri".
